@@ -5,7 +5,7 @@
 
 [Documentation](https://github.com/RakshitAR29/Contactless-Fingerprint-Detection-/blob/main/documentation/contactless_fingerprint_detection.pdf)
 
-Programming language: C++
+Programming language: C++  
 Tools: OpenCV and Microsoft Visual Studio/QT.
 
 ## Implentation example
@@ -19,11 +19,11 @@ Tools: OpenCV and Microsoft Visual Studio/QT.
 ![](/images/fingerprints.png)
 
 ## Copyright
-If you intend to use the code as either a replica or update it further then, please include the following copyright in it.
+If you intend to use the code as either a replica or update it further then, please include the following copyright in it.<br/>
 **Copyright © 2020 RAR**
 
 ## Citing
-If you use this work for scientific research, please cite it as following.
+If you use this work for scientific research, please cite it as following.<br/>
 **Rakshit Adderi Rohit, Contactless Fingerprint Detection, 2020, GitHub repository, https://github.com/RakshitAR29/Contactless-Fingerprint-Detection-**
 
-Thank you
+*Thank you*
