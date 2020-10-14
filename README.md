@@ -24,6 +24,6 @@ If you intend to use the code as either a replica or update it further then, ple
 
 ## Citing
 If you use this work for scientific research, please cite it as following.<br/>
-**Rakshit Adderi Rohit, Contactless Fingerprint Detection, 2020, GitHub repository, https://github.com/RakshitAR29/Contactless-Fingerprint-Detection-**
+**Rakshit Adderi Rohit. (2020, October 14). Rakshit-Adderi-Rohit/Contactless-Fingerprint-Detection-: CFD (Version v2.0). Zenodo. http://doi.org/10.5281/zenodo.4088290**
 
 *Thank you*
