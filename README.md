@@ -1,4 +1,4 @@
 # Contactless-Fingerprint-Detection-
 
 ## Overview of the system
-![Overview] (D:\Learn\Capture.PNG)
+![Block Diagram](/images/Block_Diagram.PNG)
